@@ -1,0 +1,12 @@
+# Archivos de datos locales y resultados
+*.csv
+*.parquet
+datos_ingesta.csv
+datos_salida.parquet
+
+# Entornos virtuales y cachés de Python
+__pycache__/
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
